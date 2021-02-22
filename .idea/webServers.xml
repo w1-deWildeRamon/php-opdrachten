@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="60d80b96-4ccd-402c-a826-543937ca38e7" name="IIS" url="https://localhost/phpopdrachten/">
+        <fileTransfer port="0" mountedRoot="C:\inetpub\wwwroot\PhpstormProjects\php-opdrachten\.idea" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
